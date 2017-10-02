@@ -1,2 +1,9 @@
-# chatterbot-service-requirements
-Python requirements for the ChatterBot API service
+# django-rest-requirements
+
+Python requirements for creating APIs with Django REST Framework.
+
+## Installation
+
+```
+pip install django-rest-requirements
+```
