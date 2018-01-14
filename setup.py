@@ -10,7 +10,7 @@ with open('requirements.txt') as requirements:
 
 setup(
     name='django-rest-requirements',
-    version='1.0.1',
+    version='1.1.0',
     url='https://github.com/gunthercox/django-rest-requirements',
     description='Django REST Requirements',
     author='Gunther Cox',
